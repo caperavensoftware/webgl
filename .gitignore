@@ -1,0 +1,6 @@
+app
+jspm_packages
+node_modules
+styles
+typings
+service-worker.js
