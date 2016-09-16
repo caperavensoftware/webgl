@@ -28,7 +28,8 @@
     "chai": "registry:dt/chai#3.4.0+20160601211834",
     "mocha": "registry:dt/mocha#2.2.5+20160619032855",
     "sinon": "registry:dt/sinon#1.16.0+20160517064723",
-    "systemjs": "registry:dt/systemjs#0.19.29+20160608101455"
+    "systemjs": "registry:dt/systemjs#0.19.29+20160608101455",
+    "webgl-ext": "registry:dt/webgl-ext#0.0.0+20160316155526"
   },
   "globalDevDependencies": {},
   "exclude": [
